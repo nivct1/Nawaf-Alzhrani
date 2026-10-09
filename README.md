@@ -21,8 +21,7 @@ education: "Bachelor's in Computer Science"
 technical_background:
   - "Data Engineering & Pipeline Design"
   - "Database Management (SQL)"
-  - "Network Architecture & Infrastructure"
-  - "Cybersecurity Fundamentals"
+  
 
 programming_languages: ["Python", "SQL"]
 hobbies: ["Tech Exploration", "Networking Labs", "Coding"]
