@@ -15,7 +15,7 @@
 ```yaml
 name: Nawaf Al-Zahrani
 : Computer Science Graduate
-focus_areas: ["Data Engineering", "Network Infrastructure"]
+focus_areas: ["Data Engineering"]
 education: "Bachelor's in Computer Science"
 
 technical_background:
@@ -24,4 +24,4 @@ technical_background:
   
 
 programming_languages: ["Python", "SQL"]
-hobbies: ["Tech Exploration", "Networking Labs", "Coding"]
+hobbies: ["Tech Exploration", "Coding"]
